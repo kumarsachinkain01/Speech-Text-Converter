@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(10, 10, 10);
+}
+.main-container{
+    background-color: rgb(49, 48, 48);
+    color: white;
+}
+.second-container{
+    background-color: rgb(240, 231, 231);
+    border-radius: 15px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+button{
+    font-family: cursive;
+    margin : 10px ;
+    padding : 5px;
+    font-weight : 600;
+}
+button:hover{
+    background-color: greenyellow;
+    color: gray;
+    cursor: pointer;
+}
